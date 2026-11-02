@@ -24,7 +24,7 @@
 > ### 🧠 Central de Conhecimento no Gemini NotebookLM
 > Para explorar o material interativo, áudios gerados por IA e resumos dinâmicos deste ecossistema, acesse o nosso ambiente oficial:
 > 
-> 🔗 **[Clique aqui para abrir o Gemini NotebookLM]((https://notebook.google.com/notebook/052f5b87-4a21-4bc7-abf6-337a4020207d))** ✨
+> 🔗 **[Clique aqui para abrir o Gemini NotebookLM](https://notebook.google.com/notebook/052f5b87-4a21-4bc7-abf6-337a4020207d)** ✨
 
 ---
 
