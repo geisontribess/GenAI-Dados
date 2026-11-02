@@ -1,15 +1,20 @@
 # 🛠️ Especialista em GenAI & Dados: Do Zero ao Mercado
 
-<!-- Badges profissionais para atrair atenção imediata -->
-![Python](https://shields.io)
-![SQL](https://shields.io)
-![Excel](https://shields.io)
-![GenAI](https://shields.io🤖-purple?style=for-the-badge)
+<!-- Ícones limpos com marcadores para substituir as imagens quebradas -->
+`📊 Excel` &nbsp;&nbsp;|&nbsp;&nbsp; `🗄️ SQL` &nbsp;&nbsp;|&nbsp;&nbsp; `🐍 Python` &nbsp;&nbsp;|&nbsp;&nbsp; `🤖 GenAI & Copilot`
+
+<br>
+
+<!-- Banner utilizando o mapa mental em PNG que já está na sua pasta -->
+![A Trilha Moderna de Dados](./NotebookLM%20Mind%20Map%20(1).png)
+
+<br>
+
+**Este assistente de Inteligência Artificial Generativa foi projetado para guiar você em toda a Trilha Moderna de Dados — conectando Excel, SQL, Python e IA para transformar dados brutos em decisões de negócios.** Quer você seja um iniciante absoluto começando do zero ou um profissional buscando automação avançada, esta IA atua como seu mentor e copiloto de código 24/7.
+
 
 <!-- Banner principal usando uma das imagens que você já tem no repositório -->
 ![A Trilha Moderna de Dados](A_Trilha_Moderna_de_Dados.pdf) <!-- Dica: Se você converter a capa do PDF em PNG/JPG e subir no repositório, coloque o nome do arquivo de imagem aqui para ela aparecer renderizada! -->
-
-**Este assistente de Inteligência Artificial Generativa foi projetado para guiar você em toda a Trilha Moderna de Dados — conectando Excel, SQL, Python e IA para transformar dados brutos em decisões de negócios.** Quer você seja um iniciante absoluto começando do zero ou um profissional buscando automação avançada, esta IA atua como seu mentor e copiloto de código 24/7.
 
 ---
 
