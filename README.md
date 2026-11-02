@@ -1,3 +1,5 @@
+---
+
 # 🛠️ Especialista em GenAI & Dados: Do Zero ao Mercado
 
 <!-- Ícones limpos com marcadores para substituir as imagens quebradas -->
@@ -24,7 +26,6 @@
 > Para explorar o material interativo, áudios gerados por IA e resumos dinâmicos deste ecossistema, acesse o nosso ambiente oficial:
 > 
 > 🔗 **[Clique aqui para abrir o Gemini NotebookLM]([INSIRA_O_SEU_LINK_AQU](https://notebook.google.com/notebook/052f5b87-4a21-4bc7-abf6-337a4020207d))** ✨
-
 
 ---
 
@@ -92,6 +93,21 @@ A metodologia deste repositório incentiva um ciclo de 4 etapas para domínio t�
 4. **Refatorar:** Peça para a IA otimizar o resultado e explicar trechos complexos.
 
 ---
+
+## 📚 Fontes de Conhecimento e Materiais de Referência
+
+O ecossistema e o assistente de IA deste projeto foram baseados e fundamentados em materiais de alta qualidade e diretrizes técnicas consagradas do mercado:
+
+* **A Oficina de Dados (Arquitetura Modular v1.0):** Guia visual e didático oficial para a conexão de ferramentas modernas de análise.
+* **The Zen of Python:** Filosofia oficial da linguagem Python que guia a escrita de códigos limpos, legíveis e simples ("Simple is better than complex").
+* **Documentações Oficiais das Bibliotecas Core:**
+  * [Pandas & NumPy](https://pydata.org) — Referência para manipulação, limpeza e tratamento de dados massivos.
+  * [SQLAlchemy](https://sqlalchemy.org) — Padrão de mercado para conexões e mapeamento relacional com bancos de dados.
+  * [Plotly, Matplotlib & Seaborn](https://plotly.com) — Guias de estilos e melhores práticas para visualizações de dados interativas.
+  * [OpenPyXL](https://readthedocs.io) — Documentação para automação, leitura e escrita de planilhas Excel nativas.
+
+---
+
 
 ## 🤝 Contribuições e Feedbacks
 
