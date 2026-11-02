@@ -1,14 +1,25 @@
 # 🛠️ Especialista em GenAI & Dados: Do Zero ao Mercado
 
+<!-- Badges profissionais para atrair atenção imediata -->
+![Python](https://shields.io)
+![SQL](https://shields.io)
+![Excel](https://shields.io)
+![GenAI](https://shields.io🤖-purple?style=for-the-badge)
+
+<!-- Banner principal usando uma das imagens que você já tem no repositório -->
+![A Trilha Moderna de Dados](A_Trilha_Moderna_de_Dados.pdf) <!-- Dica: Se você converter a capa do PDF em PNG/JPG e subir no repositório, coloque o nome do arquivo de imagem aqui para ela aparecer renderizada! -->
+
 **Este assistente de Inteligência Artificial Generativa foi projetado para guiar você em toda a Trilha Moderna de Dados — conectando Excel, SQL, Python e IA para transformar dados brutos em decisões de negócios.** Quer você seja um iniciante absoluto começando do zero ou um profissional buscando automação avançada, esta IA atua como seu mentor e copiloto de código 24/7.
 
 ---
 
-## 🚀 Acesso Rápido
+## 🚀 Acesso Rápido e Interativo
 
-Para explorar o material interativo, áudios gerados por IA e resumos dinâmicos deste ecossistema, acesse o nosso ambiente oficial:
+> ### 🧠 Central de Conhecimento no Gemini NotebookLM
+> Para explorar o material interativo, áudios gerados por IA e resumos dinâmicos deste ecossistema, acesse o nosso ambiente oficial:
+> 
+> 🔗 **[Clique aqui para abrir o Gemini NotebookLM]([INSIRA_O_SEU_LINK_AQU](https://notebook.google.com/notebook/052f5b87-4a21-4bc7-abf6-337a4020207d))** ✨
 
-👉 **[Acesse aqui o meu Gemini NotebookLM](https://notebook.google.com/notebook/052f5b87-4a21-4bc7-abf6-337a4020207d)** 🚀
 
 ---
 
